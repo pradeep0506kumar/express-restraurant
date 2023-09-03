@@ -6,7 +6,8 @@
   height: 100vh;
   width: 100%;
   background-color: whitesmoke;
-
+  background-image: url("../../../assets/images/bg.jpg");
+  // background-size:;
 }
 
 .aboutright {
@@ -19,7 +20,6 @@
 
 .aboutleft {
   /* background-color: blue; */
-  background-image: url("../../../assets/images/about_bg.jpg");
   background-repeat: no-repeat;
   background-size:
     cover;
@@ -28,6 +28,8 @@
 }
 .peragraf{
   margin-top: 7%;
+  
+  color: #484545;
 }
 /* .hr{
   background-color: red;
